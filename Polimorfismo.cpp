@@ -65,7 +65,7 @@ void Polimorfismo::reporteInventario(){
 
     //Fuera del for
     cout << "Peliculas = " << cantPeliculas << endl;
-    cout << "Serie = " << cantSeries << endl;
+    cout << "Series = " << cantSeries << endl;
 
 }
 
